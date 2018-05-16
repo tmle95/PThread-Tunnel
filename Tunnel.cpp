@@ -1,6 +1,4 @@
 
-//COSC 3360 Assignment 3
-
 #include <iostream>
 #include <pthread.h>
 #include <fstream>
